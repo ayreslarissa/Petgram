@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Petgram</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_info">Informações</string>
+    <string name="title_activity_initial">Petgram</string>
+    <string name="title_activity_main">Lista de Animais</string>
+
+    <string name="title_activity_historico_adocao">Histórico de Adoção</string>
+</resources>

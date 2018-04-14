@@ -1,0 +1,8 @@
+<resources>>
+    <style name="AppTheme" parent="Base.Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBar">true</item>
+        <item name="android:windowActionBar">true</item>
+        <item name="android:colorPrimaryDark">@color/primaryDark</item>
+        <item name="android:colorPrimary">@color/primary</item>
+    </style>
+</resources>
